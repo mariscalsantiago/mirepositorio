@@ -7,3 +7,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* hero 1
